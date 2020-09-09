@@ -9,6 +9,7 @@
     "url": "https://twitter.com/colbyfayock"
   },
   "dependencies": {
+    "axios": "^0.20.0",
     "gatsby": "^2.24.47",
     "gatsby-plugin-manifest": "^2.4.23",
     "gatsby-plugin-react-helmet": "^3.3.10",
